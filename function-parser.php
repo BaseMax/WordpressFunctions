@@ -95,3 +95,4 @@ foreach ($item as $main_title => $sub_title) {
 }
 print_r($tree);
 
+file_put_contents("functions.json", json_encode($tree, JSON_PRETTY_PRINT));

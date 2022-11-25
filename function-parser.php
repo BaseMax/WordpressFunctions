@@ -57,40 +57,30 @@ foreach ($lines as $line_item) {
 
 print_r($item);
 
+file_put_contents("functions-list.txt", json_encode($item, JSON_PRETTY_PRINT));
+
 // convert the above array to a tree array with children=[]
 $tree = [];
 foreach ($item as $main_title => $sub_title) {
-	$tree[] = [
-		"name" => $main_title,
-		"children" => []
-	];
-
-	foreach ($sub_title as $sub_title => $functions) {
-		$item = [
-			"name" => $sub_title,
+	$tree[$main_title] = [];
+	foreach ($sub_title as $sub_title => $item) {
+		$tree[$main_title][] = [
+			"title" => $sub_title,
 			"children" => []
 		];
-		// append item to child of last item in $tree
-		$tree[count($tree) - 1]["children"][] = $item;
-
-		foreach ($functions as $function) {
-			$item = [
-				"name" => $function,
-				"children" => []
+		foreach ($item as $item => $value) {
+			$tree[$main_title][count($tree[$main_title]) - 1]["children"][] = [
+				"title" => $item,
 			];
-			// append item to child of last item in $tree
-			$tree[count($tree) - 1]["children"][count($tree[count($tree) - 1]["children"]) - 1]["children"][] = $item;
 		}
-
 		// remove empty children
-		if (empty($tree[count($tree) - 1]["children"][count($tree[count($tree) - 1]["children"]) - 1]["children"])) {
-			unset($tree[count($tree) - 1]["children"][count($tree[count($tree) - 1]["children"]) - 1]["children"]);
+		if (empty($tree[$main_title][count($tree[$main_title]) - 1]["children"])) {
+			unset($tree[$main_title][count($tree[$main_title]) - 1]["children"]);
 		}
 	}
-
 	// remove empty children
-	if (empty($tree[count($tree) - 1]["children"])) {
-		unset($tree[count($tree) - 1]["children"]);
+	if (empty($tree[$main_title])) {
+		unset($tree[$main_title]);
 	}
 }
 print_r($tree);

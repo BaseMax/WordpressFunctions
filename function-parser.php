@@ -104,3 +104,6 @@ foreach ($tree as $main_title => $sub_title) {
 }
 file_put_contents("functions.md", $markdown);
 
+$data = file_get_contents("README.backup");
+$data = str_replace("<!-- functions-list -->", $markdown, $data);
+file_put_contents("README.md", $data);

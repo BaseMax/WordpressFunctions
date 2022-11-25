@@ -1,0 +1,3931 @@
+[
+    {
+        "name": "Category, Tag and Taxonomy Functions",
+        "children": [
+            {
+                "name": "Categories",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Category Creation",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Tags",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Taxonomy",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Post, Custom Post Type, Page, Attachment and Bookmarks Functions",
+        "children": [
+            {
+                "name": "Posts",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Custom Post Status",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Custom Post Type",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Post insertion\/removal",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Pages",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Custom Fields (postmeta)",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Attachments",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Bookmarks",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Terms",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Others",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Feed Functions",
+        "children": [
+            {
+                "name": "bloginfo_rss"
+            },
+            {
+                "name": "comment_author_rss"
+            },
+            {
+                "name": "comment_link"
+            },
+            {
+                "name": "comment_text_rss"
+            },
+            {
+                "name": "do_feed"
+            },
+            {
+                "name": "do_feed_atom"
+            },
+            {
+                "name": "do_feed_rdf"
+            },
+            {
+                "name": "do_feed_rss"
+            },
+            {
+                "name": "do_feed_rss2"
+            },
+            {
+                "name": "fetch_feed"
+            },
+            {
+                "name": "fetch_rss (deprecated)"
+            },
+            {
+                "name": "get_author_feed_link"
+            },
+            {
+                "name": "get_bloginfo_rss"
+            },
+            {
+                "name": "get_category_feed_link"
+            },
+            {
+                "name": "get_comment_link"
+            },
+            {
+                "name": "get_comment_author_rss"
+            },
+            {
+                "name": "get_post_comments_feed_link"
+            },
+            {
+                "name": "get_rss (deprecated)"
+            },
+            {
+                "name": "get_search_comments_feed_link"
+            },
+            {
+                "name": "get_search_feed_link"
+            },
+            {
+                "name": "get_the_category_rss"
+            },
+            {
+                "name": "get_the_title_rss"
+            },
+            {
+                "name": "permalink_single_rss (deprecated)"
+            },
+            {
+                "name": "post_comments_feed_link"
+            },
+            {
+                "name": "rss_enclosure"
+            },
+            {
+                "name": "the_title_rss"
+            },
+            {
+                "name": "the_category_rss"
+            },
+            {
+                "name": "the_content_rss (deprecated)"
+            },
+            {
+                "name": "the_excerpt_rss"
+            },
+            {
+                "name": "wp_rss (deprecated)"
+            }
+        ]
+    },
+    {
+        "name": "User and Author Functions",
+        "children": [
+            {
+                "name": "Admins, Roles and Capabilities",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Users and Authors",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "User meta",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "User insertion\/removal",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Login \/ Logout",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "HTTP API Functions",
+        "children": [
+            {
+                "name": "wp_remote_get"
+            },
+            {
+                "name": "wp_remote_retrieve_body"
+            },
+            {
+                "name": "wp_get_http_headers"
+            },
+            {
+                "name": "wp_remote_fopen"
+            }
+        ]
+    },
+    {
+        "name": "Comment, Ping, and Trackback Functions",
+        "children": [
+            {
+                "name": "add_ping"
+            },
+            {
+                "name": "add_comment_meta"
+            },
+            {
+                "name": "check_comment"
+            },
+            {
+                "name": "comment_text"
+            },
+            {
+                "name": "comment_form"
+            },
+            {
+                "name": "comments_number"
+            },
+            {
+                "name": "discover_pingback_server_uri"
+            },
+            {
+                "name": "delete_comment_meta"
+            },
+            {
+                "name": "do_all_pings"
+            },
+            {
+                "name": "do_enclose"
+            },
+            {
+                "name": "do_trackbacks"
+            },
+            {
+                "name": "generic_ping"
+            },
+            {
+                "name": "get_approved_comments"
+            },
+            {
+                "name": "get_avatar"
+            },
+            {
+                "name": "get_comment"
+            },
+            {
+                "name": "get_comment_text"
+            },
+            {
+                "name": "get_comment_meta"
+            },
+            {
+                "name": "get_comments"
+            },
+            {
+                "name": "wp_list_comments"
+            },
+            {
+                "name": "get_enclosed"
+            },
+            {
+                "name": "get_lastcommentmodified"
+            },
+            {
+                "name": "get_pung"
+            },
+            {
+                "name": "get_to_ping"
+            },
+            {
+                "name": "have_comments"
+            },
+            {
+                "name": "get_comment_author"
+            },
+            {
+                "name": "is_trackback"
+            },
+            {
+                "name": "pingback"
+            },
+            {
+                "name": "privacy_ping_filter"
+            },
+            {
+                "name": "sanitize_comment_cookies"
+            },
+            {
+                "name": "trackback"
+            },
+            {
+                "name": "trackback_url"
+            },
+            {
+                "name": "trackback_url_list"
+            },
+            {
+                "name": "update_comment_meta"
+            },
+            {
+                "name": "weblog_ping"
+            },
+            {
+                "name": "wp_allow_comment"
+            },
+            {
+                "name": "wp_count_comments"
+            },
+            {
+                "name": "wp_delete_comment"
+            },
+            {
+                "name": "wp_filter_comment"
+            },
+            {
+                "name": "wp_get_comment_status"
+            },
+            {
+                "name": "wp_get_current_commenter"
+            },
+            {
+                "name": "wp_insert_comment"
+            },
+            {
+                "name": "wp_new_comment"
+            },
+            {
+                "name": "wp_set_comment_status"
+            },
+            {
+                "name": "wp_throttle_comment_flood"
+            },
+            {
+                "name": "wp_update_comment"
+            },
+            {
+                "name": "wp_update_comment_count"
+            },
+            {
+                "name": "wp_update_comment_count_now"
+            }
+        ]
+    },
+    {
+        "name": "Comments Loop",
+        "children": [
+            {
+                "name": "comment_class"
+            },
+            {
+                "name": "comment_ID"
+            },
+            {
+                "name": "comment_author"
+            },
+            {
+                "name": "comment_date"
+            },
+            {
+                "name": "comment_time"
+            },
+            {
+                "name": "get_comment_date"
+            },
+            {
+                "name": "get_comment_time"
+            }
+        ]
+    },
+    {
+        "name": "Comments Pagination",
+        "children": [
+            {
+                "name": "paginate_comments_links"
+            },
+            {
+                "name": "previous_comments_link"
+            },
+            {
+                "name": "next_comments_link"
+            },
+            {
+                "name": "get_comment_pages_count"
+            }
+        ]
+    },
+    {
+        "name": "Action, Filter, and Plugin Functions",
+        "children": [
+            {
+                "name": "Filters (Reference)",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Actions (Reference)",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Plugins (Reference)",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Widgets (Reference)",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Settings (Reference)",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Shortcodes (Reference)",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Theme-Related Functions",
+        "children": [
+            {
+                "name": "Include functions",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Other functions",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Miscellaneous Functions",
+        "children": [
+            {
+                "name": "Time\/Date Functions",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Serialization",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Options",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Transients",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Admin Menu Functions",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Toolbar Functions",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Form Helpers",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Nonces and Referers (Security)",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "XMLRPC",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Localization",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Cron (Scheduling)",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Conditional Tags Index",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Script and Style Registration",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Miscellaneous",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Multisite functions",
+        "children": [
+            {
+                "name": "Multisite administration Functions",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Multisite Functions",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Defines constants and global variables that can be overridden, generally in wp-config.php, found in file wp-includes\/ms-default-constants.php (since 3.0.0).",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Multisite WordPress API, found in file wp-includes\/ms-functions.php (since 3.0.0).",
+                "children": [
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    },
+                    {
+                        "name": [],
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Formatting Functions",
+        "children": [
+            {
+                "name": "absint"
+            },
+            {
+                "name": "add_magic_quotes"
+            },
+            {
+                "name": "addslashes_gpc"
+            },
+            {
+                "name": "antispambot"
+            },
+            {
+                "name": "attribute_escape (deprecated)"
+            },
+            {
+                "name": "backslashit"
+            },
+            {
+                "name": "balanceTags"
+            },
+            {
+                "name": "clean_pre"
+            },
+            {
+                "name": "clean_url (deprecated)"
+            },
+            {
+                "name": "convert_chars"
+            },
+            {
+                "name": "convert_smilies"
+            },
+            {
+                "name": "ent2ncr"
+            },
+            {
+                "name": "esc_attr"
+            },
+            {
+                "name": "esc_html"
+            },
+            {
+                "name": "esc_js"
+            },
+            {
+                "name": "esc_textarea"
+            },
+            {
+                "name": "esc_sql"
+            },
+            {
+                "name": "esc_url"
+            },
+            {
+                "name": "esc_url_raw"
+            },
+            {
+                "name": "force_balance_tags"
+            },
+            {
+                "name": "format_to_edit"
+            },
+            {
+                "name": "format_to_post (deprecated)"
+            },
+            {
+                "name": "funky_javascript_fix (deprecated)"
+            },
+            {
+                "name": "htmlentities2"
+            },
+            {
+                "name": "is_email"
+            },
+            {
+                "name": "js_escape (deprecated)"
+            },
+            {
+                "name": "make_clickable"
+            },
+            {
+                "name": "popuplinks"
+            },
+            {
+                "name": "remove_accents"
+            },
+            {
+                "name": "sanitize_email"
+            },
+            {
+                "name": "sanitize_file_name"
+            },
+            {
+                "name": "sanitize_html_class"
+            },
+            {
+                "name": "sanitize_key"
+            },
+            {
+                "name": "sanitize_mime_type"
+            },
+            {
+                "name": "sanitize_option"
+            },
+            {
+                "name": "sanitize_sql_orderby"
+            },
+            {
+                "name": "sanitize_text_field"
+            },
+            {
+                "name": "sanitize_title"
+            },
+            {
+                "name": "sanitize_title_for_query"
+            },
+            {
+                "name": "sanitize_title_with_dashes"
+            },
+            {
+                "name": "sanitize_user"
+            },
+            {
+                "name": "seems_utf8"
+            },
+            {
+                "name": "stripslashes_deep"
+            },
+            {
+                "name": "trailingslashit"
+            },
+            {
+                "name": "untrailingslashit"
+            },
+            {
+                "name": "urlencode_deep"
+            },
+            {
+                "name": "url_shorten"
+            },
+            {
+                "name": "utf8_uri_encode"
+            },
+            {
+                "name": "wpautop"
+            },
+            {
+                "name": "wptexturize"
+            },
+            {
+                "name": "wp_filter_kses"
+            },
+            {
+                "name": "wp_filter_post_kses"
+            },
+            {
+                "name": "wp_filter_nohtml_kses"
+            },
+            {
+                "name": "wp_iso_descrambler"
+            },
+            {
+                "name": "wp_kses"
+            },
+            {
+                "name": "wp_kses_array_lc"
+            },
+            {
+                "name": "wp_kses_attr"
+            },
+            {
+                "name": "wp_kses_bad_protocol"
+            },
+            {
+                "name": "wp_kses_bad_protocol_once"
+            },
+            {
+                "name": "wp_kses_bad_protocol_once2"
+            },
+            {
+                "name": "wp_kses_check_attr_val"
+            },
+            {
+                "name": "wp_kses_decode_entities"
+            },
+            {
+                "name": "wp_kses_hair"
+            },
+            {
+                "name": "wp_kses_hook"
+            },
+            {
+                "name": "wp_kses_html_error"
+            },
+            {
+                "name": "wp_kses_js_entities"
+            },
+            {
+                "name": "wp_kses_no_null"
+            },
+            {
+                "name": "wp_kses_normalize_entities"
+            },
+            {
+                "name": "wp_kses_normalize_entities2"
+            },
+            {
+                "name": "wp_kses_post"
+            },
+            {
+                "name": "wp_kses_split"
+            },
+            {
+                "name": "wp_kses_split2"
+            },
+            {
+                "name": "wp_kses_stripslashes"
+            },
+            {
+                "name": "wp_kses_version"
+            },
+            {
+                "name": "wp_make_link_relative"
+            },
+            {
+                "name": "wp_normalize_path"
+            },
+            {
+                "name": "wp_rel_nofollow"
+            },
+            {
+                "name": "wp_richedit_pre"
+            },
+            {
+                "name": "wp_specialchars"
+            },
+            {
+                "name": "wp_trim_words"
+            },
+            {
+                "name": "zeroise"
+            }
+        ]
+    }
+]

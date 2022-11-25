@@ -1,4 +1,6 @@
 <?php
+// Max Base
+// https://github.com/BaseMax/WordpressFunctions
 // Note: This is not a optimized code, just for demo purpose with simple logic
 // As this is only a script, code is not clean and optimized
 

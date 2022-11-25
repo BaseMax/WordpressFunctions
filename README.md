@@ -2,6 +2,8 @@
 
 List of all WordPress functions (Categorized)
 
+> ~1000 WordPress PHP Functions, by learning all of them you can say you are master in WP Development.
+
 # WordPress Functions List
 
 ## Category, Tag and Taxonomy Functions

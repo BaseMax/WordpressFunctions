@@ -65,12 +65,12 @@ foreach ($item as $main_title => $sub_title) {
 	$tree[$main_title] = [];
 	foreach ($sub_title as $sub_title => $item) {
 		$tree[$main_title][] = [
-			"title" => $sub_title,
+			"name" => $sub_title,
 			"children" => []
 		];
 		foreach ($item as $item => $value) {
 			$tree[$main_title][count($tree[$main_title]) - 1]["children"][] = [
-				"title" => $item,
+				"name" => $item,
 			];
 		}
 		// remove empty children

@@ -86,3 +86,21 @@ foreach ($item as $main_title => $sub_title) {
 print_r($tree);
 
 file_put_contents("functions.json", json_encode($tree, JSON_PRETTY_PRINT));
+
+// convert the tree to markdown
+$markdown = "# WordPress Functions List\n";
+foreach ($tree as $main_title => $sub_title) {
+	$markdown .= "\n## $main_title\n";
+	foreach ($sub_title as $sub_title) {
+		if (isset($sub_title["children"])) {
+			$markdown .= "\n### $sub_title[name]\n\n";
+			foreach ($sub_title["children"] as $item) {
+				$markdown .= "- $item[name]\n";
+			}
+		} else {
+			$markdown .= "- $sub_title[name]\n";
+		}
+	}
+}
+file_put_contents("functions.md", $markdown);
+
